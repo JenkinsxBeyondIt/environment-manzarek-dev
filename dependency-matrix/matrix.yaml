@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/it-beyondit/node_pod.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: it-beyondit
+  repo: test_import_backend
+  url: https://github.com/it-beyondit/test_import_backend.git
+  version: ""
+  versionURL: ""
