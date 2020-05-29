@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/it-beyondit/angular_test.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: it-beyondit
+  repo: backend
+  url: https://github.com/it-beyondit/backend.git
+  version: ""
+  versionURL: ""
